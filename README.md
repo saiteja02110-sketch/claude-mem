@@ -469,3 +469,9 @@ Official BASE CA: 0x76b1967eec0ccaeb001bbbb2b40dc4badba31ba3
 This repository was forked and cloned using Git.
 A new feature branch named feature-update was created.
 This change demonstrates collaborative development using GitHub.
+
+
+
+
+Experiment 10 - Merge Conflict Demonstration
+This content was added in the conflict-demo branch.
