@@ -1,1 +1,2 @@
-This content is from the main branch.
+This is the resolved content after merging both branches.
+The changes from main and conflict-demo2 have been reviewed.
